@@ -1,0 +1,2 @@
+# Kalkulatorsredniej
+srednia kalkulator
